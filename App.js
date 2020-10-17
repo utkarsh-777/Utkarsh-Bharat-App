@@ -72,7 +72,7 @@ const requestCameraPermission = async () => {
         <WebView
           source={{
             uri:
-              'https://utkarsh-bharat.herokuapp.com/',
+              'https://d3eirljyzihdnw.cloudfront.net/',
           }}
           startInLoadingState={true}
           renderLoading={()=>(
